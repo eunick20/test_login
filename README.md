@@ -1,4 +1,4 @@
-Teste login e compra de produto em webbsite
+Teste login e compra de produto em website
 
 Se caso preferir executar os testes na sua máquina é necessário que você faça os seguintes passos:
 
